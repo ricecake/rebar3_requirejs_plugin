@@ -2,7 +2,7 @@
 
 -export([init/1, do/1, format_error/1]).
 
--define(PROVIDER, 'rebar3_requirejs_plugin').
+-define(PROVIDER, 'rjs').
 -define(DEPS, [app_discovery]).
 
 %% ===================================================================
