@@ -1,5 +1,5 @@
 {application, 'rebar3_requirejs_plugin',
- [{description, "A rebar plugin"},
+ [{description, "A rebar plugin to compile requires assets"},
   {vsn, "0.1.0"},
   {registered, []},
   {applications,
